@@ -1,0 +1,30 @@
+.header
+{
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+}
+
+.textdisplay
+{
+    background-color: antiquewhite;
+    font-size: 20px;
+    margin: 25px;
+    padding: 20px;
+}
+
+#textarea
+{
+    border:5px solid rgba(114, 101, 101, 0.993);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+
+/*
+selecteur css
+events
+arrays
+random()
+inline functions
+*/
